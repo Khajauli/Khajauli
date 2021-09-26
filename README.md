@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome
+## PERSONAL ACCOUNT
+
+
+* Software Engineering Student at *
+[EPN](https://www.epn.edu.ec/)
 
 <!--
 **Khajauli/Khajauli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
